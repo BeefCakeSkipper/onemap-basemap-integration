@@ -14,11 +14,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- Documentation -->
 ## Documentation
 ### OneMap
-*[https://www.onemap.gov.sg/docs/maps/](https://www.onemap.gov.sg/docs/maps/)
+* [https://www.onemap.gov.sg/docs/maps/](https://www.onemap.gov.sg/docs/maps/)
 
 ### Python
-*[https://python-visualization.github.io/folium/latest/reference.html](https://python-visualization.github.io/folium/latest/reference.html)
-*[https://python-visualization.github.io/folium/latest/getting_started.html](https://python-visualization.github.io/folium/latest/getting_started.html)
+* [https://python-visualization.github.io/folium/latest/reference.html](https://python-visualization.github.io/folium/latest/reference.html)
+* [https://python-visualization.github.io/folium/latest/getting_started.html](https://python-visualization.github.io/folium/latest/getting_started.html)
 
 ### R Studio
 *[https://rstudio.github.io/leaflet/articles/basemaps.html](https://rstudio.github.io/leaflet/articles/basemaps.html)
