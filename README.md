@@ -6,8 +6,8 @@ This repo is meant for OneMap basemap integration with various platforms and lan
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![OneMap]([OneMap.icon])][OneMap-url]
-* [![Python]([Python.icon])][Python-url]
+* [[OneMap][OneMap.icon]][OneMap-url]
+* [[Python]([Python.icon]][Python-url]
 * [![RStudio][RStudio.icon]][RStudio-url]
 * [![Tableau][Tableau.icon]][Tableau-url]
 * [![Flourish][Flourish.icon]][Flourish-url]
