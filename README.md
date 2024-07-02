@@ -7,7 +7,7 @@ This repo is meant for OneMap basemap integration with various platforms and lan
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![OneMap][OneMap.icon]][OneMap-url]
-* [![Python][Python.icon]][Python-url]
+* [![Python][Python.py]][Python-url]
 * [![RStudio][RStudio.icon]][RStudio-url]
 * [![Tableau][Tableau.icon]][Tableau-url]
 * [![Flourish][Flourish.icon]][Flourish-url]
@@ -52,8 +52,8 @@ _Data taken from: [data.gov.sg](https://beta.data.gov.sg/datasets?sort=Most+down
 [linkedin-url]: www.linkedin.com/in/skipper-smahon
 [OneMap.icon] : https://img.shields.io/badge/OneMap-F5333F?style=for-the-badge&logoColor=white
 [Onemap-url]: https://www.onemap.gov.sg/apidocs/
-[Python.icon]: (https://img.shields.io/badge/Python-316A99?style=for-the-badge&logo=python&logoColor=white&logoSize=white)
-[Python-url]: (https://www.python.org/)
+[Python.py]: https://img.shields.io/badge/Python-316A99?style=for-the-badge&logo=python&logoColor=white&logoSize=white
+[Python-url]: https://www.python.org/
 [R-Studio.icon]: https://img.shields.io/badge/RStudio-71A5D4?style=for-the-badge&logo=r&logoColor=white&logoSize=white
 [R-Studio-url]: https://posit.co/
 [Tableau.icon]: https://img.shields.io/badge/Tableau-664CCA?style=for-the-badge&logo=tableau&logoColor=white&logoSize=white
