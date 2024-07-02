@@ -32,8 +32,8 @@ These are the platforms and languages that have been included in this project.
 * [https://help.tableau.com/current/pro/desktop/en-us/maps_shapefiles.htm](https://help.tableau.com/current/pro/desktop/en-us/maps_shapefiles.htm)
 
 ### Flourish 
-* [https://helpcenter.flourish.studio/hc/en-us/articles/8827938359567-How-to-customize-the-style-of-your-3D-maps#raster-tiles)
-*(https://helpcenter.flourish.studio/hc/en-us/articles/8761575881359-How-to-add-a-custom-base-map-to-your-Survey-visualization)
+* [https://helpcenter.flourish.studio/hc/en-us/articles/8827938359567-How-to-customize-the-style-of-your-3D-maps#raster-tiles](https://helpcenter.flourish.studio/hc/en-us/articles/8827938359567-How-to-customize-the-style-of-your-3D-maps#raster-tiles)
+* [https://helpcenter.flourish.studio/hc/en-us/articles/8761575881359-How-to-add-a-custom-base-map-to-your-Survey-visualization](https://helpcenter.flourish.studio/hc/en-us/articles/8761575881359-How-to-add-a-custom-base-map-to-your-Survey-visualization)
 
 <!-- GeoJSON -->
 ## GeoJSON
