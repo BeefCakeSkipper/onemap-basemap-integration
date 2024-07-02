@@ -4,7 +4,7 @@ This repo is meant for OneMap basemap integration with various platforms and lan
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+These are the platforms and languages that have been included in this project.
 * [![OneMap](https://img.shields.io/badge/OneMap-F5333F?style=for-the-badge&logoColor=white)](https://www.onemap.gov.sg/apidocs/)
 * [![Python](https://img.shields.io/badge/Python-316A99?style=for-the-badge&logo=python&logoColor=white&logoSize=white)](https://www.python.org/)
 * [![RStudio](https://img.shields.io/badge/RStudio-71A5D4?style=for-the-badge&logo=r&logoColor=white&logoSize=white)](https://posit.co/)
