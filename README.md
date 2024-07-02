@@ -21,15 +21,15 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [https://python-visualization.github.io/folium/latest/getting_started.html](https://python-visualization.github.io/folium/latest/getting_started.html)
 
 ### R Studio
-*[https://rstudio.github.io/leaflet/articles/basemaps.html](https://rstudio.github.io/leaflet/articles/basemaps.html)
-*[https://rstudio.github.io/leaflet/reference/map-layers.html](https://rstudio.github.io/leaflet/reference/map-layers.html)
-*[https://web.archive.org/web/20220709131410/https://leafletjs.com/reference-1.3.4.html#zoom-options](https://web.archive.org/web/20220709131410/https://leafletjs.com/reference-1.3.4.html#zoom-options)
-*[https://rstudio.github.io/leaflet/reference/addProviderTiles.html](https://rstudio.github.io/leaflet/reference/addProviderTiles.html)
+* [https://rstudio.github.io/leaflet/articles/basemaps.html](https://rstudio.github.io/leaflet/articles/basemaps.html)
+* [https://rstudio.github.io/leaflet/reference/map-layers.html](https://rstudio.github.io/leaflet/reference/map-layers.html)
+* [https://web.archive.org/web/20220709131410/https://leafletjs.com/reference-1.3.4.html#zoom-options](https://web.archive.org/web/20220709131410/https://leafletjs.com/reference-1.3.4.html#zoom-options)
+* [https://rstudio.github.io/leaflet/reference/addProviderTiles.html](https://rstudio.github.io/leaflet/reference/addProviderTiles.html)
 
 ### Tableau
-*[https://help.tableau.com/current/pro/desktop/en-us/maps_mapsources_wms.htm](https://help.tableau.com/current/pro/desktop/en-us/maps_mapsources_wms.htm)
-*[https://help.tableau.com/current/pro/desktop/en-us/bkimages_coordinates.htm](https://help.tableau.com/current/pro/desktop/en-us/bkimages_coordinates.htm)
-*[https://help.tableau.com/current/pro/desktop/en-us/maps_shapefiles.htm](https://help.tableau.com/current/pro/desktop/en-us/maps_shapefiles.htm)
+* [https://help.tableau.com/current/pro/desktop/en-us/maps_mapsources_wms.htm](https://help.tableau.com/current/pro/desktop/en-us/maps_mapsources_wms.htm)
+* [https://help.tableau.com/current/pro/desktop/en-us/bkimages_coordinates.htm](https://help.tableau.com/current/pro/desktop/en-us/bkimages_coordinates.htm)
+* [https://help.tableau.com/current/pro/desktop/en-us/maps_shapefiles.htm](https://help.tableau.com/current/pro/desktop/en-us/maps_shapefiles.htm)
 
 <!-- GeoJSON -->
 ## GeoJSON
@@ -54,5 +54,5 @@ _Data taken from: [data.gov.sg](https://beta.data.gov.sg/datasets?sort=Most+down
 [Tableau.icon]: https://img.shields.io/badge/Tableau-664CCA?style=for-the-badge&logo=tableau&logoColor=white&logoSize=white
 [Tableau-url]: https://www.tableau.com/
 [Flourish.icon]: https://img.shields.io/badge/Flourish-b48484?style=for-the-badge
-[Flourish-url]: 
+[Flourish-url]: https://flourish.studio/
 
