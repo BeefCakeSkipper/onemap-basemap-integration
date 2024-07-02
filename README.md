@@ -5,7 +5,7 @@ This repo is meant for OneMap basemap integration with various platforms and lan
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
+* [![OneMap][OneMap.icon]](https://www.python.org/)
 * [![OneMap][OneMap.icon]][OneMap-url]
 * [![Python][Python.py]][Python-url]
 * [![RStudio][RStudio.icon]][RStudio-url]
@@ -34,7 +34,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- GeoJSON -->
 ## GeoJSON
-A GEOJSON file of Singapore's planning areas has been included in the event you intend to add more features on top of these basemaps. 
+A GeoJSON file of Singapore's planning areas has been included in the event you intend to add more features on top of these basemaps. 
 
 _Data taken from: [data.gov.sg](https://beta.data.gov.sg/datasets?sort=Most+downloads&query=planning+area&resultId=d_6c6d7361dd826d97b91bac914ca6b2ac)_
 
